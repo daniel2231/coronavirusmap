@@ -1,0 +1,11 @@
+body {
+    font-family: 'NanumSquare', sans-serif !important;
+}
+
+.page-title {
+    font-weight: bolder;
+}
+
+.table {
+    margin: 20px;
+}
